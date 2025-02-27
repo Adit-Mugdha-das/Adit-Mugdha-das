@@ -14,6 +14,19 @@ If you're passionate about technology and love discussing innovative ideas, feel
 
 [![Adit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Mugdha-das&theme=tokyo-night)](https://github.com/Adit-Mugdha-das)
 
+##  More GitHub Insights:
+
+[![GitHub Metrics](https://github-readme-metrics.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
+
+[![Adit Mugdha Das's Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adit-Mugdha-das&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
+
+[![Commit Frequency](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adit-Mugdha-das&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Mugdha-das&bg_color=0d1117&color=5bcdec&line=5bcdec&point=f58c3a&area=true&hide_border=true)](https://github.com/Adit-Mugdha-das)
+
+[![GitHub Skyline](https://github.com/Adit-Mugdha-das/skyline?raw=true)](https://skyline.github.com/Adit-Mugdha-das)
+
+
 ##  Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Mugdha-das&layout=compact&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
 

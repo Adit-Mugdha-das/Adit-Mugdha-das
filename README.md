@@ -18,7 +18,7 @@ If you're passionate about technology and love discussing innovative ideas, feel
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Mugdha-das&layout=compact&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
 
 ##  Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adit-mugdha-das)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adit-mugdha-das-0a6723314/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Mugdha_118/)
 📧 **Email:** [mailbox.mugdha@gmail.com](mailto:mailbox.mugdha@gmail.com)  
 📱 **WhatsApp:** [Message me on WhatsApp](https://wa.me/8801718108344) 

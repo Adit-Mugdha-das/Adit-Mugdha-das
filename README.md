@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Adit Mugdha Das 👋
 
-<!--
-**Adit-Mugdha-das/Adit-Mugdha-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Undergraduate Student** at **Khulna University of Engineering & Technology (KUET)** 🎓, specializing in **Computer Science & Engineering**.
 
-Here are some ideas to get you started:
+## 🔥 My GitHub Stats:
+![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Adit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Mugdha-das&theme=tokyo-night)](https://github.com/Adit-Mugdha-das)
+
+## 🏆 Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Mugdha-das&layout=compact&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
+
+## 🚀 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adit-mugdha-das)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Mugdha_118/)
+
+---

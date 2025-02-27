@@ -23,15 +23,8 @@ If you're passionate about technology and love discussing innovative ideas, feel
 📧 **Email:** [mailbox.mugdha@gmail.com](mailto:mailbox.mugdha@gmail.com)  
 📱 **WhatsApp:** [Message me on WhatsApp](https://wa.me/8801718108344) 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat)
 
-##  Technologies & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ---

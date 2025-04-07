@@ -11,7 +11,7 @@ If you're passionate about technology and love discussing innovative ideas, feel
 
 ---
 
-## 🚀 My GitHub Stats
+##  My GitHub Stats
 
 ![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)
 
@@ -22,25 +22,25 @@ If you're passionate about technology and love discussing innovative ideas, feel
 
 ---
 
-## 🧠 Most Used Languages
+##  Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Mugdha-das&layout=compact&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
 
 ---
 
-## 🤝 Connect with me
+##  Connect with me
 
 <a href="https://www.linkedin.com/in/adit-mugdha-das-0a6723314/" target="_blank">
-  <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" />
+  <img src="https://img.icons8.com/color/40/linkedin.png" alt="LinkedIn" />
 </a>&nbsp;&nbsp;
 <a href="https://leetcode.com/Mugdha_118/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
 </a>&nbsp;&nbsp;
 <a href="mailto:mailbox.mugdha@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Email" />
+  <img src="https://img.icons8.com/color/40/gmail-new.png" alt="Email" />
 </a>&nbsp;&nbsp;
 <a href="https://wa.me/8801718108344" target="_blank">
-  <img src="https://img.icons8.com/color/30/whatsapp.png" alt="WhatsApp" />
+  <img src="https://img.icons8.com/color/40/whatsapp.png" alt="WhatsApp" />
 </a>
 
 📬 Let's connect and chat about tech, AI, or cool ideas!

@@ -32,13 +32,13 @@ If you're passionate about technology and love discussing innovative ideas, feel
 
 <a href="https://www.linkedin.com/in/adit-mugdha-das-0a6723314/" target="_blank">
   <img src="https://img.icons8.com/color/40/linkedin.png" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://leetcode.com/Mugdha_118/" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="mailto:mailbox.mugdha@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/40/gmail-new.png" alt="Email" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://wa.me/8801718108344" target="_blank">
   <img src="https://img.icons8.com/color/40/whatsapp.png" alt="WhatsApp" />
 </a>

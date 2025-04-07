@@ -11,7 +11,7 @@ If you're passionate about technology and love discussing innovative ideas, feel
 
 ---
 
-##  My GitHub Stats
+## 🚀 My GitHub Stats
 
 ![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)
 
@@ -22,31 +22,29 @@ If you're passionate about technology and love discussing innovative ideas, feel
 
 ---
 
-##  Most Used Languages
+## 🧠 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Mugdha-das&layout=compact&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
 
 ---
 
-##  Connect with me
+## 🤝 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adit-mugdha-das-0a6723314/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/><br/>LinkedIn
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/Mugdha_118/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/><br/>LeetCode
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mailbox.mugdha@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/><br/>Email
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/8801718108344" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/><br/>WhatsApp
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/adit-mugdha-das-0a6723314/" target="_blank">
+  <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="https://leetcode.com/Mugdha_118/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
+</a>&nbsp;&nbsp;
+<a href="mailto:mailbox.mugdha@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Email" />
+</a>&nbsp;&nbsp;
+<a href="https://wa.me/8801718108344" target="_blank">
+  <img src="https://img.icons8.com/color/30/whatsapp.png" alt="WhatsApp" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat" alt="Profile views"/>
-</p>
+📬 Let's connect and chat about tech, AI, or cool ideas!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat)
 
 ---

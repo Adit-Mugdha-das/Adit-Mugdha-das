@@ -10,28 +10,32 @@ Exploring new ideas and experimenting with cutting-edge solutions excites me, an
 If you're passionate about technology and love discussing innovative ideas, feel free to connect!  
 
 ##  My GitHub Stats:
-![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)
+![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Mugdha-das&bg_color=0d1117&color=5bcdec&line=5bcdec&point=f58c3a&area=true&hide_border=true)](https://github.com/Adit-Mugdha-das)
 
-
-[![Adit Mugdha Das's Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adit-Mugdha-das&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
-
+[![Adit Mugdha Das's Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adit-Mugdha-das&theme=tokyonight)](https://github.com/Adit-Mugdha-das)  
 [![Commit Frequency](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adit-Mugdha-das&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
-
-
-
 
 ##  Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Mugdha-das&layout=compact&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
 
 ##  Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adit-mugdha-das-0a6723314/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Mugdha_118/)
-📧 **Email:** [mailbox.mugdha@gmail.com](mailto:mailbox.mugdha@gmail.com)  
-📱 **WhatsApp:** [Message me on WhatsApp](https://wa.me/8801718108344) 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adit-mugdha-das-0a6723314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Mugdha_118/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:mailbox.mugdha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801718108344" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat)
-
-
 
 ---

@@ -43,7 +43,7 @@ If you're passionate about technology and love discussing innovative ideas, feel
   <img src="https://img.icons8.com/color/40/whatsapp.png" alt="WhatsApp" />
 </a>
 
-📬 Let's connect and chat about tech, AI, or cool ideas!
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat)
 

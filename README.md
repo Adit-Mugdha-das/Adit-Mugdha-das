@@ -1,6 +1,6 @@
 # Hi there, I'm Adit Mugdha Das 
 
-I'm an **Undergraduate Student** at **Khulna University of Engineering & Technology (KUET)** , specializing in **Computer Science & Engineering**.  
+I'm an **Undergraduate Student** at **Khulna University of Engineering & Technology (KUET)**, specializing in **Computer Science & Engineering**.  
 Currently, I am a **second-year student** passionate about **Machine Learning** and actively learning more about it.  
 
 I love working on **unique projects**, solving different problems, and I am always eager to **learn about new technologies**.  
@@ -9,33 +9,44 @@ Exploring new ideas and experimenting with cutting-edge solutions excites me, an
 
 If you're passionate about technology and love discussing innovative ideas, feel free to connect!  
 
-##  My GitHub Stats:
-![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)  
+---
+
+##  My GitHub Stats
+
+![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Mugdha-das&bg_color=0d1117&color=5bcdec&line=5bcdec&point=f58c3a&area=true&hide_border=true)](https://github.com/Adit-Mugdha-das)
 
 [![Adit Mugdha Das's Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adit-Mugdha-das&theme=tokyonight)](https://github.com/Adit-Mugdha-das)  
 [![Commit Frequency](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adit-Mugdha-das&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
 
-##  Most Used Languages:
+---
+
+##  Most Used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Mugdha-das&layout=compact&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
 
-##  Connect with me:
+---
 
-<p align="left">
+##  Connect with me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/adit-mugdha-das-0a6723314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/><br/>LinkedIn
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/Mugdha_118/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/><br/>LeetCode
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mailbox.mugdha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/><br/>Email
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801718108344" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/><br/>WhatsApp
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat" alt="Profile views"/>
+</p>
 
 ---

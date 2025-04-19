@@ -24,8 +24,7 @@ Take a tour of my personal portfolio and explore my projects, skills, and achiev
 ![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Mugdha-das&bg_color=0d1117&color=5bcdec&line=5bcdec&point=f58c3a&area=true&hide_border=true)](https://github.com/Adit-Mugdha-das)
-
-[![Adit Mugdha Das's Repository Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adit-Mugdha-das&theme=tokyonight)](https://github.com/Adit-Mugdha-das)  
+ 
 [![Commit Frequency](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adit-Mugdha-das&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
 
 ---

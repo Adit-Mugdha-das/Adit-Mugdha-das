@@ -15,7 +15,7 @@ If you're passionate about technology and love discussing innovative ideas, feel
 
 Take a tour of my personal portfolio and explore my projects, skills, and achievements:
 
-👉 [https://adit-mugdha-das.onrender.com](https://adit-mugdha-das.onrender.com)
+👉 [https://www.adit-mugdha-das.com.bd/](https://www.adit-mugdha-das.com.bd/)
 
 ---
 

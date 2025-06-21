@@ -32,7 +32,6 @@ Take a tour of my personal portfolio and explore my projects, skills, and achiev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Mugdha-das&layout=compact&theme=tokyonight)](https://github.com/Adit-Mugdha-das)
 
 ---
-
 ##  Connect with me
 
 <a href="https://www.linkedin.com/in/adit-mugdha-das-0a6723314/" target="_blank">
@@ -48,9 +47,9 @@ Take a tour of my personal portfolio and explore my projects, skills, and achiev
   <img src="https://img.icons8.com/color/40/whatsapp.png" alt="WhatsApp" />
 </a>
 
+<br>
 
-<div style="margin-top: 8px;">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat)
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat)
+
 
 ---

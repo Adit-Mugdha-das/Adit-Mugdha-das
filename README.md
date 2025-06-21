@@ -49,8 +49,8 @@ Take a tour of my personal portfolio and explore my projects, skills, and achiev
 </a>
 
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat)
+<div style="margin-top: 8px;">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Adit-Mugdha-das&color=blue&style=flat)
+</div>
 
 ---

@@ -1,7 +1,7 @@
 # Hi there, I'm Adit Mugdha Das 
 
 I'm an **Undergraduate Student** at **Khulna University of Engineering & Technology (KUET)**, specializing in **Computer Science & Engineering**.  
-Currently, I am a **second-year student** passionate about **Machine Learning** and actively learning more about it.  
+Currently, I am a **third-year student** passionate about **Machine Learning** and actively learning more about it.  
 
 I love working on **unique projects**, solving different problems, and I am always eager to **learn about new technologies**.  
 I'm particularly interested in **AI, automation, and how emerging technologies** shape the future.  

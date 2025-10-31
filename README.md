@@ -15,15 +15,18 @@ If you're passionate about technology and love discussing innovative ideas, feel
 
 Take a tour of my personal portfolio and explore my projects, skills, and achievements:
 
-👉 [https://www.adit-mugdha-das.com.bd/](https://www.adit-mugdha-das.com.bd/)
+ [https://www.adit-mugdha-das.com.bd/](https://www.adit-mugdha-das.com.bd/)
 
 ---
 
 ##  My GitHub Stats
+![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
 
-![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Adit-Mugdha-das&theme=tokyonight&hide_border=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Mugdha-das&bg_color=0d1117&color=5bcdec&line=5bcdec&point=f58c3a&area=true&hide_border=true)](https://github.com/Adit-Mugdha-das)
+[![Adit’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Mugdha-das&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Adit-Mugdha-das)
+
+
 
 ---
 

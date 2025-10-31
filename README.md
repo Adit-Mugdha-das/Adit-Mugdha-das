@@ -22,8 +22,6 @@ Take a tour of my personal portfolio and explore my projects, skills, and achiev
 ##  My GitHub Stats
 ![Adit Mugdha Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Mugdha-das&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Adit-Mugdha-das&theme=tokyonight&hide_border=true)
-
 [![Adit’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Mugdha-das&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Adit-Mugdha-das)
 
 
